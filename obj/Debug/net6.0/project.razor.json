@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/dotnet-rpg.csproj",
+  "FilePath": "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/dotnet-webapi.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "dotnet_rpg",
+  "RootNamespace": "dotnet_webapi",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

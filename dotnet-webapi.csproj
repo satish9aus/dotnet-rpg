@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>dotnet_rpg</RootNamespace>
+    <RootNamespace>dotnet_webapi</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

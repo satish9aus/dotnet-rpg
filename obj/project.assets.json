@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Applications/BJSS-workspace/dotNet/dotnet-rpg/dotnet-rpg.csproj",
-      "projectName": "dotnet-rpg",
-      "projectPath": "/Applications/BJSS-workspace/dotNet/dotnet-rpg/dotnet-rpg.csproj",
+      "projectUniqueName": "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/dotnet-webapi.csproj",
+      "projectName": "dotnet-webapi",
+      "projectPath": "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/dotnet-webapi.csproj",
       "packagesPath": "/Users/Satish.Jaiswal/.nuget/packages/",
-      "outputPath": "/Applications/BJSS-workspace/dotNet/dotnet-rpg/obj/",
+      "outputPath": "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Satish.Jaiswal/.nuget/NuGet/NuGet.Config"

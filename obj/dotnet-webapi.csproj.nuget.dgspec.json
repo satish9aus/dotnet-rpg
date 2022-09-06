@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "/Applications/BJSS-workspace/dotNet/dotnet-rpg/dotnet-webapi.csproj": {}
+    "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/dotnet-webapi.csproj": {}
   },
   "projects": {
-    "/Applications/BJSS-workspace/dotNet/dotnet-rpg/dotnet-webapi.csproj": {
+    "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/dotnet-webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Applications/BJSS-workspace/dotNet/dotnet-rpg/dotnet-webapi.csproj",
-        "projectName": "dotnet-rpg",
-        "projectPath": "/Applications/BJSS-workspace/dotNet/dotnet-rpg/dotnet-webapi.csproj",
+        "projectUniqueName": "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/dotnet-webapi.csproj",
+        "projectName": "dotnet-webapi",
+        "projectPath": "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/dotnet-webapi.csproj",
         "packagesPath": "/Users/Satish.Jaiswal/.nuget/packages/",
-        "outputPath": "/Applications/BJSS-workspace/dotNet/dotnet-rpg/obj/",
+        "outputPath": "/Applications/BJSS-workspace/dotNet/play-dotnet-web-api/obj/",
         "projectStyle": "PackageReference",
-        "configFilePaths": ["/Users/Satish.Jaiswal/.nuget/NuGet/NuGet.Config"],
-        "originalTargetFrameworks": ["net6.0"],
+        "configFilePaths": [
+          "/Users/Satish.Jaiswal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -26,7 +30,9 @@
           }
         },
         "warningProperties": {
-          "warnAsError": ["NU1605"]
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {

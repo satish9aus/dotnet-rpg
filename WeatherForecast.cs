@@ -1,4 +1,4 @@
-namespace dotnet_rpg;
+namespace dotnet_webapi;
 
 public class WeatherForecast
 {

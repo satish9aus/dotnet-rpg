@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace dotnet_rpg.Controllers;
+namespace dotnet_webapi.Controllers;
 
 [ApiController]
 [Route("[controller]")]
